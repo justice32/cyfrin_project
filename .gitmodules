@@ -4,3 +4,6 @@
 [submodule "merkle-airdrop/lib/openzeppelin-contracts"]
 	path = merkle-airdrop/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "merkle-airdrop/lib/murky"]
+	path = merkle-airdrop/lib/murky
+	url = https://github.com/dmfxyz/murky
